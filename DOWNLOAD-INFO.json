@@ -1,0 +1,27 @@
+{
+  "note": "Frontend files retrieved from the preview server. The backend API service and deployment secrets are not included.",
+  "retrievedFiles": [
+    "index.html",
+    "package.json",
+    "tsconfig.json",
+    "vite.config.ts",
+    "src\\App.tsx",
+    "src\\index.css",
+    "src\\main.tsx",
+    "src\\components\\AppShell.tsx",
+    "src\\components\\ui\\badge.tsx",
+    "src\\components\\ui\\button.tsx",
+    "src\\components\\ui\\textarea.tsx",
+    "src\\lib\\api.ts",
+    "src\\lib\\lucide-react.tsx",
+    "src\\lib\\queryClient.ts",
+    "src\\lib\\recharts.tsx",
+    "src\\lib\\utils.ts",
+    "src\\pages\\Analytics.tsx",
+    "src\\pages\\Customer.tsx",
+    "src\\pages\\Feedback.tsx",
+    "src\\pages\\Home.tsx",
+    "src\\pages\\Inbox.tsx"
+  ],
+  "source": "https://context-care.preview.emergentagent.com"
+}
