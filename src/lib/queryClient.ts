@@ -1,0 +1,5 @@
+import { QueryClient } from "/node_modules/.vite/deps/@tanstack_react-query.js?v=56fe86c3";
+// Exported so lib/session can wipe it at session boundaries — cached data outlives logout.
+export const queryClient = new QueryClient();
+
+//# sourceMappingURL=data:application/json;base64,eyJtYXBwaW5ncyI6IkFBQUEsU0FBUyxtQkFBbUI7O0FBRzVCLE9BQU8sTUFBTSxjQUFjLElBQUksWUFBWSIsIm5hbWVzIjpbXSwic291cmNlcyI6WyJxdWVyeUNsaWVudC50cyJdLCJ2ZXJzaW9uIjozLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBRdWVyeUNsaWVudCB9IGZyb20gXCJAdGFuc3RhY2svcmVhY3QtcXVlcnlcIjtcblxuLy8gRXhwb3J0ZWQgc28gbGliL3Nlc3Npb24gY2FuIHdpcGUgaXQgYXQgc2Vzc2lvbiBib3VuZGFyaWVzIOKAlCBjYWNoZWQgZGF0YSBvdXRsaXZlcyBsb2dvdXQuXG5leHBvcnQgY29uc3QgcXVlcnlDbGllbnQgPSBuZXcgUXVlcnlDbGllbnQoKTtcbiJdfQ==
